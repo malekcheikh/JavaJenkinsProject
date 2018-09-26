@@ -4,6 +4,7 @@ public class User {
 String Id;
 String name;
 String LastName;
+String location; 
 public String getId() {
 	return Id;
 }
